@@ -2,5 +2,4 @@
 Debugger For C Lan
 # Project Status (Currently In Developing)
 
-# Creator
-__Benelhaj_Younes__
+# Creator: __r2dr0dn__
